@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Ce          , Rp          , Rp          , Ce          , Ce          , Gg          
+Gg          , Gg          , Gg          , Gg          , Ce          , Ce          , Gg^Vh       , Rp          , Gg          , Ce          , Gg^Vh       , Ce          
+Gg          , Gg          , Ce          , Ce          , Gg          , Gg          , Gg^Vh       , Rp          , Rp          , Gg          , Gg          , Gg          
+Gg          , Ce          , Gg          , Gg^Vh       , Gg          , Gg          , Gg          , Rp          , Rp          , Gg          , Ch          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg^Vh       , Gg          , Gg^Vh       , Rp          , Rp          , Ch          , Ch          , Ch          
+Gg          , Ce          , Gg^Vh       , Gg^Vh       , Gg^Vh       , Gg^Vh       , Gg          , Rp          , Rp          , Ch          , Ch          , Kh          
+Gg          , Ce          , Re          , Re          , Gg^Vh       , Gg          , Re          , Rp          , Rp          , 2 Ch        , Ch          , Ch          
+Gg          , Ce          , Gg          , Re          , Re          , Re          , Gg^Vh       , Rp          , Gg^Vh       , Gg^Vh       , Gg^Vh       , Gg          
+Gg          , Ce          , Gg          , Gg^Vh       , Gg^Vh       , Gg^Vh       , Gg^Vh       , Rp          , Gg          , Re          , Re          , Gg          
+Gg          , Ce          , Gg          , Re          , Re          , Gg          , Re          , Rp          , Rp          , Re          , Gg          , Gg          
+Gg          , Ce          , Ce          , Gg^Vh       , Gg          , Re          , Gg^Vh       , Gg          , 1 Rp        , Gg^Vh       , Gg          , Gg^Vh       
+Gg          , Gg          , Gg          , Ce          , Ce          , Ce          , Ce          , Gg          , Rp          , Gg          , Ce          , Ce          

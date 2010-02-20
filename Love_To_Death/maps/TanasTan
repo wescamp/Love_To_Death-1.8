@@ -1,0 +1,19 @@
+border_size=1
+usage=map
+
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         
+Xos         , Xos         , Uu          , Uu          , Uu          , Cud         , 2 Kud       , Cud         , Uu          , Uu          , Uu          , Uu          , Uu          , Xos         
+Xos         , Uu          , Ql          , Uu          , Uu          , Cud         , Cud         , Cud         , Uu          , Uu          , Uu          , Uu          , Uu          , Xos         
+Xos         , Uu          , Ql          , Uu          , Xos         , Ur          , Ur          , Ur          , Xos         , Uu          , Ql          , Ql          , Uu          , Xos         
+Xos         , Uu          , Uu          , Ql          , Ql          , Uu          , Ur          , Uu          , Uu          , Uu          , Ql          , Ql          , Uu          , Xos         
+Xos         , Uu          , Uu          , Ql          , Xos         , Uu          , Ur          , Uu          , Xos         , Uu          , Ql          , Uu          , Uu          , Xos         
+Xos         , Uu          , Ql          , Ql          , Ql          , Uu          , Ur          , Uu          , Uu          , Ql          , Uu          , Uu          , Xos         , Xos         
+Xos         , Uu          , Uu          , Uu          , Uu          , Ql          , Ql^Bs/      , Ur          , Ql          , Ql          , Ql          , Xos         , Mm^Xm       , Xos         
+Mm^Xm       , Xos         , Xos         , Uu          , Uu          , Ur          , Ur          , Ql          , Uu          , Uu          , Uu          , Xos         , Mm^Xm       , Mm^Xm       
+Gg          , Mm^Xm       , Mm^Xm       , Xos         , Xos         , Xos         , Re          , Xos         , Xos         , Xos         , Xos         , Xos         , Mm          , Mm^Xm       
+Gg          , Mm          , Hh^Fp       , Mm          , Mm          , Mm          , Re          , Mm          , Hh^Fp       , Mm          , Mm          , Mm          , Hh^Fp       , Gg          
+Gg          , Hh^Fp       , Hh^Fp       , Hh^Fp       , Gs^Fms      , Gs^Fms      , Re          , Gs^Fms      , Re          , Hh^Fp       , Hh^Fp       , Hh^Fp       , Hh^Fds      , Gg          
+Gg          , Hh^Fds      , Hh^Fds      , Hh^Fds      , Hh^Fds      , Hh^Fds      , Hh^Fds      , Re          , Gs^Fms      , Re          , Re          , Hh^Fds      , Hh^Fds      , Gg          
+Gs^Fms      , Gs^Fms      , Hh^Fds      , Hh^Fds      , Hh^Fds      , Hh^Fds      , Hh^Fds      , Hh^Fds      , Gs^Fms      , Gs^Fms      , Re          , Re          , Hh^Fds      , Gg          
+Gg          , Gs^Fms      , Gs^Fms      , Hh^Fds      , Hh^Fds      , Hh^Fds      , 1 Re        , Re          , Re          , Re          , Gs^Fms      , Hh^Fds      , Hh^Fds      , Gg          
+Gg          , Gs^Fms      , Gs^Fms      , Gs^Fms      , Gg          , Re          , Gs^Fms      , Gs^Fms      , Gs^Fms      , Gs^Fms      , Gg          , Hh^Fds      , Gg          , Gg          
