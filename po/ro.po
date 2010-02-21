@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-02-22 00:01+0100\n"
+"PO-Revision-Date: 2010-02-22 00:01+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#. [campaign]: id=LoveToDeath
+#. [editor_group]: id=LTD
+#: Love_To_Death/_main.cfg:9 Love_To_Death/_main.cfg:50
+msgid "Love To Death"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:10
+msgid "LTD"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:16
+msgid "Apprentice"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:16
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:17
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:17
+msgid "Wizard"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:18
+msgid "ArchMage"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:18
+msgid "(Hard)"
+msgstr ""
+
+#. [campaign]: id=LoveToDeath
+#: Love_To_Death/_main.cfg:20
+msgid ""
+"Follow the story of the deathly passion of Aleva, the mage apprentice who "
+"crossed all the boundaries of magic to reach what she desired most. "
+"(Unfinished, 2 parts out of 3, 12 scenarios)"
+msgstr ""
+
+#. [scenario]: id=back_to_Karenin
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:4
+msgid "Back To Karenin"
+msgstr ""
+
+#. [objective]: condition=win
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:33
+msgid "Arrive in Karenin"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:37
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:297
+msgid "Death of Karos"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:41
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:301
+msgid "Death of Aleva"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:45
+msgid "Turns run out"
+msgstr ""
+
+#. [side]: type=AlevaMage, id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:64
+msgid "Aleva"
+msgstr ""
+
+#. [side]: type=Kaliostali, id=Kaliostali
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:87
+msgid "Kaliostali"
+msgstr ""
+
+#. [unit]: type=Karos, id=Karos
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:190
+msgid "Karos the brave"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:202
+msgid ""
+"After several days of march, Karos and Aleva arrive to Karenin when leaves "
+"are about to fall from the trees. They feel the peace and rest of the "
+"arriving traveler."
+msgstr ""
+
+#. [message]: id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:206
+msgid ""
+"My dear Karos, at last we arrive to our Karenin. I am willing to see my "
+"father and to rest."
+msgstr ""
+
+#. [message]: id=Karos
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:210
+msgid "Master Kaliostali will greet your presence."
+msgstr ""
+
+#. [message]: id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:214
+msgid "You will certanly be rewarded for such an efficient protection."
+msgstr ""
+
+#. [message]: id=Karos
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:218
+msgid "It is not reward I seek"
+msgstr ""
+
+#. [message]: id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:222
+msgid ""
+"I know, my dear Karos, and that is the reason why we appreciate you in this "
+"family. Your loyalty is always appreciated. During this winter I will be "
+"requiring your services. I will travel sort distances to practice in the "
+"intimacy the arts my master taught me."
+msgstr ""
+
+#. [message]: id=Karos
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:226
+msgid ""
+"I will follow you to death, and that you know, but you should care. Care to "
+"travel in the winter, and care to practice your magic. It is appreciated, "
+"but also feared."
+msgstr ""
+
+#. [message]: id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:230
+msgid "Let's head on, my loyal servant."
+msgstr ""
+
+#. [message]: id=Aros
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:238
+msgid "MiLady, at last!, you arrived."
+msgstr ""
+
+#. [message]: id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:242
+msgid "What disturbs you, citizen?"
+msgstr ""
+
+#. [message]: id=Aros
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:247
+msgid "Something terrible, MiLady, my... my grandfather, he is here!!"
+msgstr ""
+
+#. [message]: id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:251
+msgid "You shall show more respect for your elders, citizen."
+msgstr ""
+
+#. [message]: id=Aros
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:256
+msgid ""
+"No!! He is back. He died this summer, and now he is back, and others also... "
+"They come from the cemetery"
+msgstr ""
+
+#. [message]: id=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:260
+msgid ""
+"Oh my God! Dead rising from their repose, and walking among alive ones. What "
+"kind of evil magic is this? Let's go Karos, we have to reach my father."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:276
+msgid "Father, what is going on?"
+msgstr ""
+
+#. [message]: speaker=Kaliostali
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:280
+msgid ""
+"Aleva, is that you? Thank the gods you arrived! Panic has spread through our "
+"people, the dead are walking among us. Please, recruit the troops and "
+"destroy this menace. Hurry, you do not have much time."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:284
+msgid "So I will, father. Let us go, Karos"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:288
+msgid "Yes, MiLady."
+msgstr ""
+
+#. [objective]: condition=win
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:293
+msgid "Destroy the menace falling on Karenin"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:305
+msgid "Death of Kaliostali"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:318
+msgid "What is this horror? Poor creature, we shall free his soul."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:329
+msgid ""
+"I am Aleva. I will destroy you, evil creature, for profaning my sacred land!"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:336
+msgid "Oh no!, It is too late, the undead march through our lands..."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:349
+msgid "Did you see that, Karos? The new dead rise and join them."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:356
+msgid ""
+"We did it. We destroyed every single last one of them. Where does this kind "
+"of magic come from? Who is behind this atrocity?"
+msgstr ""
+
+#. [message]: speaker=Kaliostali
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:360
+msgid ""
+"Aleva, there is only one person in the marque of Karenin that could reach "
+"such a power, and you know that. It is your master, Ektalion. We shall raise "
+"the guard and march North."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:364
+msgid ""
+"No, father, that is not possible. Ektalion is a good man. He is the bravest "
+"of all men. There shall be an explanation for all this, and it does not come "
+"from my master. He is not the only one to control the powers of Magic. You "
+"people do not understand."
+msgstr ""
+
+#. [message]: speaker=Kaliostali
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:368
+msgid ""
+"You are young, but wise, young daughter. But you are also blind. Who else "
+"could control such a power?"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:372
+msgid ""
+"The shaman lizards of the swamp are also known for controlling magic powers, "
+"and they as well venerate Tanas, the evil goddess. To the swamps should our "
+"sight turn."
+msgstr ""
+
+#. [message]: speaker=Kaliostali
+#: Love_To_Death/scenarios/01_back_to_karenin.cfg:376
+msgid ""
+"Then we will do as you will. Take some men and head to the swamps. Bring mi "
+"a prove, and we will wreck havoc on the lizars. Do not, and we will march "
+"North."
+msgstr ""
