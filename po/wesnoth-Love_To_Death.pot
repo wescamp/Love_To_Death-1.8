@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-02-22 00:01+0100\n"
+"POT-Creation-Date: 2010-03-15 19:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,237 +12,2279 @@ msgstr ""
 
 #. [campaign]: id=LoveToDeath
 #. [editor_group]: id=LTD
-#: ./Love_To_Death/_main.cfg:9 ./Love_To_Death/_main.cfg:50
+#: ./Love_To_Death/_main.cfg:11 ./Love_To_Death/_main.cfg:114
 msgid "Love To Death"
 msgstr ""
 
 #. [campaign]: id=LoveToDeath
-#: ./Love_To_Death/_main.cfg:10
+#: ./Love_To_Death/_main.cfg:12
 msgid "LTD"
 msgstr ""
 
 #. [campaign]: id=LoveToDeath
-#: ./Love_To_Death/_main.cfg:16
+#: ./Love_To_Death/_main.cfg:18
 msgid "Apprentice"
 msgstr ""
 
 #. [campaign]: id=LoveToDeath
-#: ./Love_To_Death/_main.cfg:16
+#: ./Love_To_Death/_main.cfg:18
 msgid "(Easy)"
 msgstr ""
 
 #. [campaign]: id=LoveToDeath
-#: ./Love_To_Death/_main.cfg:17
-msgid "(Normal)"
-msgstr ""
-
-#. [campaign]: id=LoveToDeath
-#: ./Love_To_Death/_main.cfg:17
+#: ./Love_To_Death/_main.cfg:19
 msgid "Wizard"
 msgstr ""
 
 #. [campaign]: id=LoveToDeath
-#: ./Love_To_Death/_main.cfg:18
-msgid "ArchMage"
+#: ./Love_To_Death/_main.cfg:19
+msgid "(Normal)"
 msgstr ""
 
 #. [campaign]: id=LoveToDeath
-#: ./Love_To_Death/_main.cfg:18
+#: ./Love_To_Death/_main.cfg:20
 msgid "(Hard)"
 msgstr ""
 
 #. [campaign]: id=LoveToDeath
 #: ./Love_To_Death/_main.cfg:20
-msgid "Follow the story of the deathly passion of Aleva, the mage apprentice who crossed all the boundaries of magic to reach what she desired most. (Unfinished, 2 parts out of 3, 12 scenarios)"
+msgid "ArchMage"
 msgstr ""
 
-#. [scenario]: id=back_to_Karenin
+#. [campaign]: id=LoveToDeath
+#: ./Love_To_Death/_main.cfg:22
+msgid "Follow the story of the deathly passion of Aleva, the mage apprentice who crossed all the boundaries of magic to reach what she desired most. (Unfinished, 2 parts out of 3, 13 scenarios completed(14 if you choose the second option in the 13th scenario.))"
+msgstr ""
+
+#. [about]
+#: ./Love_To_Death/_main.cfg:25
+msgid "Campaign story"
+msgstr ""
+
+#. [about]
+#: ./Love_To_Death/_main.cfg:34
+msgid "UMC Music"
+msgstr ""
+
+#. [about]
+#: ./Love_To_Death/_main.cfg:35
+msgid "Originally know as LTD Music"
+msgstr ""
+
+#. [about]
+#: ./Love_To_Death/_main.cfg:59
+msgid "Campaign arts"
+msgstr ""
+
+#. [about]
+#: ./Love_To_Death/_main.cfg:71
+msgid "MP Campaign coding"
+msgstr ""
+
+#. [about]
+#: ./Love_To_Death/_main.cfg:77
+msgid "Campaign coding"
+msgstr ""
+
 #: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:4
+msgid "MPLTD Back To Karenin"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:6
+msgid "Follow the story of the deathly passion of Aleva, the mage apprentice who crossed all the boundaries of magic to reach what she desired most."
+msgstr ""
+
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:9
 msgid "Back To Karenin"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:33
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:44
 msgid "Arrive in Karenin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:37 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:297
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:89 ./Love_To_Death/scenarios/07_TheTan.cfg:181 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:345 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:411 ./Love_To_Death/scenarios/09_Druids.cfg:101 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:105 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:368 ./Love_To_Death/scenarios/04_run_mountains.cfg:244 ./Love_To_Death/scenarios/04_run_mountains.cfg:438 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:48 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:459 ./Love_To_Death/scenarios/02_the_swamps.cfg:80 ./Love_To_Death/scenarios/02_the_swamps.cfg:351 ./Love_To_Death/scenarios/02_the_swamps.cfg:454
 msgid "Death of Karos"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:41 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:301
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:85 ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:63 ./Love_To_Death/scenarios/08_ThePath.cfg:82 ./Love_To_Death/scenarios/08_ThePath.cfg:86 ./Love_To_Death/scenarios/07_TheTan.cfg:177 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:341 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:407 ./Love_To_Death/scenarios/14b_The_entrance.cfg:139 ./Love_To_Death/scenarios/09_Druids.cfg:97 ./Love_To_Death/scenarios/11_Test_of_Power.cfg:99 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:101 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:364 ./Love_To_Death/scenarios/04_run_mountains.cfg:240 ./Love_To_Death/scenarios/04_run_mountains.cfg:434 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:52 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:463 ./Love_To_Death/scenarios/02_the_swamps.cfg:84 ./Love_To_Death/scenarios/02_the_swamps.cfg:355 ./Love_To_Death/scenarios/02_the_swamps.cfg:458
 msgid "Death of Aleva"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:45
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:97 ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:67 ./Love_To_Death/scenarios/08_ThePath.cfg:94 ./Love_To_Death/scenarios/07_TheTan.cfg:189 ./Love_To_Death/scenarios/09_Druids.cfg:113 ./Love_To_Death/scenarios/11_Test_of_Power.cfg:103 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:113 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:376 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:56 ./Love_To_Death/scenarios/02_the_swamps.cfg:88
 msgid "Turns run out"
 msgstr ""
 
+#. [side]: id=Aleva, type=AlevaPrin
+#. [side]: id=Karos, type=Karos
 #. [side]: type=AlevaMage, id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:64
+#. [side]: type=AlevaPrin, id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:107 ./Love_To_Death/scenarios/08_ThePath.cfg:158 ./Love_To_Death/scenarios/07_TheTan.cfg:35 ./Love_To_Death/scenarios/07_TheTan.cfg:118 ./Love_To_Death/scenarios/09_Druids.cfg:126 ./Love_To_Death/scenarios/09_Druids.cfg:204 ./Love_To_Death/scenarios/03_talk_Karenin.cfg:45 ./Love_To_Death/scenarios/11_Test_of_Power.cfg:31 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:126 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:196 ./Love_To_Death/scenarios/04_run_mountains.cfg:46 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:76 ./Love_To_Death/scenarios/02_the_swamps.cfg:115
 msgid "Aleva"
 msgstr ""
 
+#. [side]: type=AlevaMage, id=Aleva
+#. [side]: type=Karos
 #. [side]: type=Kaliostali, id=Kaliostali
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:87
+#. [side]: type=Karos, id=Karos
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:57 ./Love_To_Death/scenarios/04_run_mountains.cfg:199 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:87 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:119 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:321 ./Love_To_Death/scenarios/02_the_swamps.cfg:128 ./Love_To_Death/scenarios/02_the_swamps.cfg:222
+msgid "Aleva and Karos"
+msgstr ""
+
+#. [side]: type=Kaliostali, id=Kaliostali
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:110
 msgid "Kaliostali"
 msgstr ""
 
+#. [side]: type=Necrophage
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:291
+msgid "undead"
+msgstr ""
+
+#. [side]: type=Karos
+#. [side]: type=Karos, id=Karos
 #. [unit]: type=Karos, id=Karos
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:190
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:90 ./Love_To_Death/scenarios/04_run_mountains.cfg:188 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:312 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:343 ./Love_To_Death/scenarios/02_the_swamps.cfg:209
 msgid "Karos the brave"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:202
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:360
 msgid "After several days of march, Karos and Aleva arrive to Karenin when leaves are about to fall from the trees. They feel the peace and rest of the arriving traveler."
 msgstr ""
 
 #. [message]: id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:206
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:364
 msgid "My dear Karos, at last we arrive to our Karenin. I am willing to see my father and to rest."
 msgstr ""
 
 #. [message]: id=Karos
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:210
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:368
 msgid "Master Kaliostali will greet your presence."
 msgstr ""
 
 #. [message]: id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:214
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:372
 msgid "You will certanly be rewarded for such an efficient protection."
 msgstr ""
 
 #. [message]: id=Karos
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:218
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:376
 msgid "It is not reward I seek"
 msgstr ""
 
 #. [message]: id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:222
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:380
 msgid "I know, my dear Karos, and that is the reason why we appreciate you in this family. Your loyalty is always appreciated. During this winter I will be requiring your services. I will travel sort distances to practice in the intimacy the arts my master taught me."
 msgstr ""
 
 #. [message]: id=Karos
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:226
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:384
 msgid "I will follow you to death, and that you know, but you should care. Care to travel in the winter, and care to practice your magic. It is appreciated, but also feared."
 msgstr ""
 
 #. [message]: id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:230
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:388
 msgid "Let's head on, my loyal servant."
 msgstr ""
 
 #. [message]: id=Aros
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:238
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:396
 msgid "MiLady, at last!, you arrived."
 msgstr ""
 
 #. [message]: id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:242
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:400
 msgid "What disturbs you, citizen?"
 msgstr ""
 
 #. [message]: id=Aros
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:247
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:405
 msgid "Something terrible, MiLady, my... my grandfather, he is here!!"
 msgstr ""
 
 #. [message]: id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:251
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:409
 msgid "You shall show more respect for your elders, citizen."
 msgstr ""
 
 #. [message]: id=Aros
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:256
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:414
 msgid "No!! He is back. He died this summer, and now he is back, and others also... They come from the cemetery"
 msgstr ""
 
 #. [message]: id=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:260
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:418
 msgid "Oh my God! Dead rising from their repose, and walking among alive ones. What kind of evil magic is this? Let's go Karos, we have to reach my father."
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:276
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:434
 msgid "Father, what is going on?"
 msgstr ""
 
 #. [message]: speaker=Kaliostali
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:280
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:438
 msgid "Aleva, is that you? Thank the gods you arrived! Panic has spread through our people, the dead are walking among us. Please, recruit the troops and destroy this menace. Hurry, you do not have much time."
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:284
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:442
 msgid "So I will, father. Let us go, Karos"
 msgstr ""
 
 #. [message]: speaker=Karos
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:288
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:446
 msgid "Yes, MiLady."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:293
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:455
 msgid "Destroy the menace falling on Karenin"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:305
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:349 ./Love_To_Death/scenarios/01_back_to_karenin.cfg:467
 msgid "Death of Kaliostali"
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:318
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:484
 msgid "What is this horror? Poor creature, we shall free his soul."
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:329
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:495
 msgid "I am Aleva. I will destroy you, evil creature, for profaning my sacred land!"
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:336
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:502
 msgid "Oh no!, It is too late, the undead march through our lands..."
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:349
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:525
 msgid "Did you see that, Karos? The new dead rise and join them."
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:356
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:532
 msgid "We did it. We destroyed every single last one of them. Where does this kind of magic come from? Who is behind this atrocity?"
 msgstr ""
 
 #. [message]: speaker=Kaliostali
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:360
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:536
 msgid "Aleva, there is only one person in the marque of Karenin that could reach such a power, and you know that. It is your master, Ektalion. We shall raise the guard and march North."
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:364
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:540
 msgid "No, father, that is not possible. Ektalion is a good man. He is the bravest of all men. There shall be an explanation for all this, and it does not come from my master. He is not the only one to control the powers of Magic. You people do not understand."
 msgstr ""
 
 #. [message]: speaker=Kaliostali
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:368
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:544
 msgid "You are young, but wise, young daughter. But you are also blind. Who else could control such a power?"
 msgstr ""
 
 #. [message]: speaker=Aleva
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:372
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:548
 msgid "The shaman lizards of the swamp are also known for controlling magic powers, and they as well venerate Tanas, the evil goddess. To the swamps should our sight turn."
 msgstr ""
 
 #. [message]: speaker=Kaliostali
-#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:376
+#: ./Love_To_Death/scenarios/01_back_to_karenin.cfg:552
 msgid "Then we will do as you will. Take some men and head to the swamps. Bring mi a prove, and we will wreck havoc on the lizars. Do not, and we will march North."
+msgstr ""
+
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:4
+msgid "MPLTD The Swamps"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:8
+msgid " The Swamps"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:30
+msgid "The swamps, out of the borders of Wesnoth, are and will be a constant trouble for the people of Karenin. Infested with all types of creatures, small in number were the humans that crossed those cursed lands."
+msgstr ""
+
+#. [set_menu_item]: id=showmap
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:158 ./Love_To_Death/scenarios/02_the_swamps.cfg:51 ./Love_To_Death/scenarios/02_the_swamps.cfg:324 ./Love_To_Death/scenarios/02_the_swamps.cfg:427 ./Love_To_Death/scenarios/02_the_swamps.cfg:599
+msgid "Show Map"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:76
+msgid "Defeat Lizard Chiefs until you find out if it was them who raise the dead."
+msgstr ""
+
+#. [side]: type=Saurian Oracle, id=Kish'Tah
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:145
+msgid "Kish'Tah"
+msgstr ""
+
+#. [side]: type=Saurian Oracle, id=Kish'Tah
+#. [side]: type=Saurian Ambusher, id=Takesh
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:168 ./Love_To_Death/scenarios/02_the_swamps.cfg:184
+msgid "The saurians"
+msgstr ""
+
+#. [side]: type=Saurian Ambusher, id=Takesh
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:178
+msgid "Takesh"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:229
+msgid "We are here. Let's find out if these lizards are the ones who raise the dead"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:233
+msgid "Be careful, MiLady, the swamps are a dangerous maze of canals. Evil lies here, and it has been long since last time the men from Wesnoth stepped in this place."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:237
+msgid "Do not worry, my dear servant, I have with me a map from my master Ektalion that will help us find our way in this place"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:241
+msgid "I trust you, MyiLady, but still take care. Keep the men grouped. And remember, once we are in the swamps, no more help from Karenin may we expect."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:245
+msgid "(Use right click to see the map. You will not be able to recruit in enemy keeps.)"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:260
+msgid "What is this place? Some kind of evil evil temple it must have been. Horrid ceremonies have for sure been performed here."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:264
+msgid "Let us continue. We need to go back to Karenin as soon as possible."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:275
+msgid "Let me finish him. I will interrogate this horror of nature."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:286
+msgid "Let me finish him. I will interrogate this horror of nature and we will find out where the undead  are coming from."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:300
+msgid "Speak, you beast, why have you been raising the dead in our beloved Karenin?"
+msgstr ""
+
+#. [message]: speaker=Takesh
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:304
+msgid "What is it you say, human? That magic we not control."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:309
+msgid "Fool you shall believe I am if you want to make me believe such idiocy. I know you worship Tanas, the evil goddess."
+msgstr ""
+
+#. [message]: speaker=Takesh
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:313
+msgid "What is it you say, human? That magic we not control. It is true we worship the goddess we call of power, and you debil humans of evil. We do not raise the dead eventhough."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:318
+msgid "You are and will be nevertheless a menace. Die, you beast..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:328 ./Love_To_Death/scenarios/02_the_swamps.cfg:431 ./Love_To_Death/scenarios/02_the_swamps.cfg:603
+msgid "No map available"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:346 ./Love_To_Death/scenarios/02_the_swamps.cfg:449
+msgid "Flee back to Karenin"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:403
+msgid "Speak, you beast, Why have you been raising the dead in our beloved Karenin?"
+msgstr ""
+
+#. [message]: speaker=Kish'Tah
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:407
+msgid "Spare my life, human, nothing I know of this you speak."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:412
+msgid "You know, you know who you worship, beast, and she is the goddess of evil."
+msgstr ""
+
+#. [message]: speaker=Kish'Tah
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:416
+msgid "For us is the goddess of power, you human, but not for this we are necromancers, nothing we know of these arts."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:421
+msgid "You will be a menace to Karenin, you beast. Die!!"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:509
+msgid "What is this place. Seems that a human inhabits this place."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:513
+msgid "Some very strange human. Look at all this."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:517
+msgid "There must be some kind of mage. Look at the map, Prodos... Will that be a name?"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:521
+msgid "A black mage's name, if you ask me. This place can hold no good. Look at all the things in here. Skulls, bones... nothing good."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:525
+msgid "Do not judge what you ignore, my dear. Magic arts require often to explore the obscure."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:617
+msgid "Are you sure you want to go back to Karenin? You still don't know what is going on in the swamps!"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/02_the_swamps.cfg:627
+msgid "This is it, Karos, we couldn't find out what was going on in here."
+msgstr ""
+
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:4
+msgid "MPLTD Kalostali is departed"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:8
+msgid " Kaliostali is departed"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:25
+msgid "Once again, back to Karenin. I remember at that time, I started to feel something. Some bad omen. Do not know where did it came from, and neither I know now, but everytime I looked at Karos, this feeling in the guts would raise from within. At time, that made no sense, but destiny has a way to set everything. And for sure it did."
+msgstr ""
+
+#. [then]
+#. [else]
+#. [side]: type=Spearman, id=Spearman
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:389 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:443 ./Love_To_Death/scenarios/03_talk_Karenin.cfg:77
+msgid "Amos"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:121
+msgid "Watch this, MyLady, there seem to be no soldiers left in Karenin."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:125
+msgid "Answer, captain, what is happening in Karenin? Where is my father?."
+msgstr ""
+
+#. [message]: speaker=Spearman
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:129
+msgid "MyLady, new horrid undeads walked from the forest. Your father decided not to wait and head North."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:133
+msgid "Nothing we found in swamps, but can not be my master to raise these demons. He must understand. My master is powerful, and nothing good can come out of this. We must rush up North, and reach my father before is too late."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:137
+msgid "The winter is falling on us, and you will not reach your father with your personal guard. Let me go, I will deliver the message for you, and try to convince your father."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:141
+msgid "My father will not be convinced by none but me. And you are right, my dear Karos, will be through the forest and the hills on the Rock Pass that we will reach my master in the lands of the Dasoi."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:145
+msgid "MyLady, I prevent you taking that very route. The forest in the hills are infested with creatures, and bands of orcs. It is a dangerous path that one."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:149
+msgid "Still, my dear Karos, is the only way, will you not come with me?"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/03_talk_Karenin.cfg:153
+msgid "Of course, MyLady, as soon as possible we shall depart."
+msgstr ""
+
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:4
+msgid "MPLTD Run Through Mountains"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:8
+msgid " Run Through Mountains"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:32
+msgid "Through the sharp valleys and the Rock Pass by the mountains we marched, following unknown paths to reach my master before my father did. Once again, Karos proved to be a loyal ally. I knew he would follow me to gates of hell if I had asked him to."
+msgstr ""
+
+#. [side]: id=Kenaios, type=DasoiWarrior
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:70
+msgid "The dasois"
+msgstr ""
+
+#. [side]: id=Knu'Tan, type=Orcish Ruler
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:109
+msgid "Orcs"
+msgstr ""
+
+#. [side]
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:138
+msgid "Animals"
+msgstr ""
+
+#. [objectives]
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:232 ./Love_To_Death/scenarios/04_run_mountains.cfg:426
+msgid "Reach the Northern forest of the Dasoi before the end of the turns"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:235 ./Love_To_Death/scenarios/04_run_mountains.cfg:429
+msgid "Reach signpost."
+msgstr ""
+
+#. [objectives]
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:238 ./Love_To_Death/scenarios/04_run_mountains.cfg:432
+msgid "Survive until turns run out."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:259
+msgid "These paths are very dangerous MyLady. The mountains are infested with wild animals. With the arrival of the winter hungry wolves becoume specially brave. And bands of Orcs hiding in the mountains are also likely to be found."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:263
+msgid "All these dangers I know, my dear Karos, but this mountains hide also allies. As we approach North, our chances to meet the Dasoi increase."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:267
+msgid "Remember that we can rush North, but our men must follow us. If you leave them in these mountains for the winter they will die for sure."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:271
+msgid "You shall not worry, my loyal one. I will not leave any of these valueble arms behind me."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:275
+msgid "(All units out of the northern forest at the end of the scenario will not be available for Recall in the next one)."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:289
+msgid "Are you sure you want to leave now? Remember, units that have not reached the forest will not be available for recall."
+msgstr ""
+
+#. [option]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:295
+msgid "Yes, we shall depart, whoever is not with us will meet doom"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:312
+msgid "Wait MyLady, not yet"
+msgstr ""
+
+#. [option]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:331
+msgid "No yet, we need to regroup"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:364
+msgid "We could not make it, Karos, now we will never reach my father on time."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:373
+msgid "We made it, we survived the Rock Pass."
+msgstr ""
+
+#. [event]
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:395
+msgid "Odigo"
+msgstr ""
+
+#. [message]: speaker=Odigo
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:398
+msgid "Lady Aleva, is that you?"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:402
+msgid "I am. And who may you be, dasoi?"
+msgstr ""
+
+#. [message]: speaker=Odigo
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:406
+msgid "We knew you were coming. My name is Odigo, I am sent here to guide you. These paths are infested with orcs and goblins. You must be aware."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:410
+msgid "That we know, my friend. We could but to take this very route. My father is heading north with the army of the marque. A slaughter among your people may occur if we do not arrive soon. Will you help us, Odigo? Which is your clan?"
+msgstr ""
+
+#. [message]: speaker=Odigo
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:414
+msgid "These are the lands of the Belainidia clan. For long we fought here to keep the orcs from our houses and families. I will for sure help you, as your fame among our people preeceds you. Your father for sure is marching on a slaughter, but you shall not be sure who will be the meat."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:418
+msgid "We must avoid the war between our people, and over all, we must save Ektalion. His knowledge and wisdom can not be lost. Ahead!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:90 ./Love_To_Death/scenarios/07_TheTan.cfg:185 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:357 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:423 ./Love_To_Death/scenarios/09_Druids.cfg:109 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:109 ./Love_To_Death/scenarios/04_run_mountains.cfg:442
+msgid "Death of Odigo"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:456
+msgid "Hail, clan of the Dasoi, we need your help."
+msgstr ""
+
+#. [message]: speaker=Kenaios
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:460
+msgid "Hail, Aleva, apprentice of Ektalion, you are welcome in these lands."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:464
+msgid "Orcs are behind us, and we need to reach my father. He is marching North with the army of the marque. We must stop him."
+msgstr ""
+
+#. [message]: speaker=Kenaios
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:468
+msgid "Bad omen you bring. We will help you. You may pass through our forest, hurry."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:472
+msgid "Thank you, Lord Kenaios of the Belainidia clan."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:483
+msgid "Look, Aleva, we are in danger, we shall rush"
+msgstr ""
+
+#. [message]: speaker=$unit.id
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:487
+msgid "Humans, they found our secret camp, we must finish them. Soon the raid will be back. They are walking corpses already"
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:491
+msgid "We can not afford to fight the orcs now, MyLady, we must leave"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:495
+msgid "You right, my dear. Rush now!, we will leave the fight for tomorrow"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:503
+msgid "We shall hurry Karos, with this snow soon the mountains will be a trap."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:507
+msgid "Yes, MyLady."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:527
+msgid "The snow is getting thicker."
+msgstr ""
+
+#. [message]: speaker=Knu'Tan
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:572
+msgid "Ha, ha, ha... Reinforcements have arrived"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/04_run_mountains.cfg:580
+msgid "Hurry, we must reach the northern forest now!"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:4
+msgid "MPLTD The Tower of Ektalion"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:8
+msgid " The Tower of Ektalion"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:26
+msgid "With the help of the Belainidia clan we crossed the mountains at the Rock Pass, and we arrived to the valley of the Arkouda clan, where my master lives. My best times have been among the Arkoudi Dasoi and my master. I wish we arrive before is too late."
+msgstr ""
+
+#. [side]: id=Kaliostali, type=Kaliostali
+#. [modify_side]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:59 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:298 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:308
+msgid "Karenin"
+msgstr ""
+
+#. [side]: id=Ektalion, type=Red Mage
+#. [modify_side]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:132 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:269 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:275
+msgid "Dasois"
+msgstr ""
+
+#. [side]: id=Ektalion, type=Red Mage
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:135
+msgid "Ektalion"
+msgstr ""
+
+#. [side]: id=Ektalion, type=Red Mage
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:162
+msgid "Arkigos"
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:234
+msgid "We are just on time... Look, your father is here! We must stop this. With the men we have and the help of the Dasoi we may be able."
+msgstr ""
+
+#. [message]: id=Kaliostali
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:238
+msgid "Ektalion!, for long have I stand for you witchery. You have crossed a line you shoul never have. Abbandon these lands or prepare to die."
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:242
+msgid "You ignorant, you arrogant fool. You unknow the reach of my powers. You will regret raising you arms against me. You are still on time. Head back to Karenin and forget your accusations."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:246
+msgid "Father, Master!! Stop this at once. There is a danger falling on us, we must fight together, not against each other."
+msgstr ""
+
+#. [message]: id=Kaliostali
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:250
+msgid "Daughter, what are you doing here? You should be in Karenin. Is anyway good that you are here. Help me, and let us finish this soon."
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:254
+msgid "My dear Aleva, my most advanced apprentice. Why did you came? You are putting yourself in danger. This must come to an end, please help me, and so we can complete your training. Together we can reach amazing power."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:258
+msgid "I do not know what to do. I think my father is wrong but still, is my father."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:260
+msgid "Father, I do not want to do this, but you tricked me. You sent me to the swamps and then marched North. Please, return to Karenin, or I will fight you."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:289
+msgid "Master, you know I admire you, but I can not turn my back on my family. Surrender please, and we will work this out. Do not rise your powers against my father, or I will fight you."
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:337 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:403
+msgid "Survive until the end of turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:353
+msgid "Aleva kills Ektalion"
+msgstr ""
+
+#. [then]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:386
+msgid "Oikos"
+msgstr ""
+
+#. [then]
+#. [else]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:387 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:393 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:445
+msgid "Platos"
+msgstr ""
+
+#. [then]
+#. [else]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:388 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:442
+msgid "Pyros"
+msgstr ""
+
+#. [then]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:390
+msgid "Aramis"
+msgstr ""
+
+#. [then]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:391
+msgid "Kitos"
+msgstr ""
+
+#. [then]
+#. [else]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:392 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:444
+msgid "Ianis"
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:415
+msgid "Death of Ektalion"
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:419
+msgid "Aleva kills Kaliostali"
+msgstr ""
+
+#. [else]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:440
+msgid "Kourgis"
+msgstr ""
+
+#. [else]
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:441
+msgid "Vlados"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:476
+msgid "Father, nooooo!"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:491
+msgid "Sorry father, I did not want to..."
+msgstr ""
+
+#. [message]: id=Kaliostali
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:495
+msgid "Aleva, my daughter... how could you..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:504
+msgid "How could it end this way..."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:508
+msgid "Do not cry, MyLady, now the marque is on your shoulders."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:538 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:592
+msgid "Master, noooo!"
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:542 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:596
+msgid "My dear, apprentice, I die... "
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:546 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:600
+msgid "No, master, you can not die. I always loved you, it can not end this way."
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:550 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:604
+msgid "I always knew, and so I loved you. It will not end here. Aleva, death is not the end. You are powerfull, soon you will understand."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:554 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:608
+msgid "What are you saying, Master? The powers of necromancy are beyond my reach."
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:558 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:612
+msgid "Rise me Aleva. Look for Prodos, my friend. He will help us. Take care now of my body, make sure I am properly buried. I will wait for you in the other side of the river. Come back to me, Aleva."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:562 ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:616
+msgid "So I will, master. Wait for me, I will be back."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:579
+msgid "Sorry master, I did not want to..."
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:583
+msgid "Aleva, my dear apprentice... how could you..."
+msgstr ""
+
+#. [message]: id=Kaliostali
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:660
+msgid "You discover your cards, evil necromancer, I knew it."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:664
+msgid "Master, but..."
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:668
+msgid "You are forcing me to use all my powers. Do not worry Aleva, there is nothing to be afraid. Soon you will understand..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:672
+msgid "Master, that is evil magic"
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:676
+msgid "There is not such thing as evil magic. I want to share my powers with you, my dear apprentice. You will follow my path, you deserve it."
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:702
+msgid "Oh, I see you found help among the Dasoi. Not surprisingly from the traitors of the Fidis clan."
+msgstr ""
+
+#. [message]: id=Kaliostali
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:706
+msgid "The only traitor here is you. Now, die!!"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:714
+msgid "It has to be over now, we can not continue fighting like this"
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:718
+msgid "And we won't, it is about to begin in fact."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:722
+msgid "What do you mean master?"
+msgstr ""
+
+#. [message]: id=Ektalion
+#: ./Love_To_Death/scenarios/05_Ektalion_Tower.cfg:726
+msgid "You will now, soon you will now."
+msgstr ""
+
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:4
+msgid "MPLTD Search for Prodos"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:8
+msgid " Search for Prodos"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:32
+msgid "The wounds of my master happened to be lethal. After all my caring he still died in my hands. In his last breath with both confessed our reciprocal love. He made me promise to follow his path and learn the arts of necromancy. I would preserve his body and raise him. He told me to look for Prodos, a friend of his, that would help us in our quest to meet again."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:39
+msgid "The Death of my master opened a gap between my father and me. The image of his death left a mark in my inside that would neve be faded. My master confessed his love for me with his last breath. Why so unfair? Always secretly loved him, and I could only tell him in his last breath. I was commited to search for his friend Prodos and find a way to raise my master back. Back together."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:51
+msgid "The whole winter I spent in the tower of my master, commited to improve my powers, commited to achive what I wanted most. I remember the feeling of dispair and thirst of revenge. All these would push me to keep on going."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:55
+msgid "Along my side stood Karos, protecting me at all moments. His sight turned obscure during the winter as my powers increased. I didn't know for how long would he stay loyal to me. His decision of staying instead of returning to Karenin would surely affect him before my father."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:59
+msgid "When the spring arrived I was the new mage of the valley of the Dasoi, Master of the Tower of Ektalion. The Dasoi stood with me at all moments, and their help will for sure help me much in the future. I was ready to depart, in the search for Prodos. To the swamps we headed, where Prodos was known to have his keep."
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:97 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:360
+msgid "Find the door to the keep of Prodos."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:254
+msgid "Here we are, back to this place of death."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:258
+msgid "You shall not worry. The swamps are dangerous, but the Dasoi will help us. We just need to find the door to the keep of Prodos."
+msgstr ""
+
+#. [message]: id=Odigo
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:262
+msgid "You know that our people appreciate your arts. We will guide and protect you."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:266
+msgid "I still do not know why are we here. Your desires are dangerours, Milady."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:270
+msgid "Your loyalty is much appreciated, but remember thay you must not follow me if it is against your desire."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:274
+msgid "I would never leave you, Milady."
+msgstr ""
+
+#. [message]: id=Beonte
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:296
+msgid "Milady Aleva, what is you do in these very lands?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:300
+msgid "We search the mage known as Prodos, do you know him"
+msgstr ""
+
+#. [message]: id=Beonte
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:304
+msgid "One mage is told to live in the swamps, but you shall not go. It has been a long hard winter. Orcs have attacked us, and the saurians still rule in the swamps. Our cementery can hardly hold more dead."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:331
+msgid "Watch out, Milayd, an undead!"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:335
+msgid "Don't kill him! I have a feeling on this undead. He is not aggresive. What is your name, poor soul?"
+msgstr ""
+
+#. [message]: id=Kleidis
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:339
+msgid "... klei ... dis"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:343
+msgid "What are you doing here alone? Who is your master?"
+msgstr ""
+
+#. [message]: id=Kleidis
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:347
+msgid "... pro ... dos"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:351
+msgid " Did you hear that, Karos? I can control this walking corpse. I think it can be key to find Prodos."
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:372
+msgid "Death of Kleidis"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:389
+msgid "Oh no, now we will never find Prodos."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:411
+msgid "I can feel the souls in this cemetery. I think I can try to raise them."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:415
+msgid "You should not play with those powers, milady."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:419
+msgid "I will try, I can recruit new troops for us, Karos, don't you see?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:501
+msgid "I made it! I made it, Karos!"
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:505
+msgid "This is a bad omen, Milady, a bad omen..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:517
+msgid "This seems to be the house of Prodos. The entrance must be close."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:529
+msgid "This must be the entrance to the keep of Prodos, but it is locked, how to open it?"
+msgstr ""
+
+#. [message]: id=Kleidis
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:533 ./Love_To_Death/scenarios/06_Search_Prodos.cfg:549
+msgid "... pro... dos"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:545
+msgid "Look, the trap opens! We found it!"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/06_Search_Prodos.cfg:562
+msgid "Where is Prodos??!!!!"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:4
+msgid "MPLTD Prodo's keep"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:8
+msgid " Prodo's keep"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:26
+msgid "We found that, under the swamps, a vast net of galleries opened, where, for millenia, the water has carved the rock. With power and persistence, even a rock can be melted. The undead called Kleidis guides us down. Seems that Prodos uses this galleries as a keep to be safe from the evil saurians. Or maybe also to be away from the superstitions of humans of Wesnoth."
+msgstr ""
+
+#. [then]: (id=Prodos) 7 8}
+#. [side]: id=Prodos, type=Prodos
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:200 ./Love_To_Death/scenarios/07_TheTan.cfg:80
+msgid "Prodos"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:173
+msgid "Find Prodos"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:218
+msgid "Look at this, one of the maps I took from my master's tower is about this place. There is a whole system of galleries under the swamps. This river drops from the surface. Look, in the map at the end of the river there is a cross."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:222
+msgid "This place is perfect for all types of monsters and beasts. We should be exremely careful, we will fight in the dark from now on."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:263
+msgid "Look, we can use this trap to go to a second level underground. My maps contain no information about that area."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:267
+msgid "Only rats hide so underground"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:271
+msgid "Enough Karos! Don't you see we need to find Prodos. Nothing stops your from coming back."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:275
+msgid "You know I would never leave you. I just dislike what you seek"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:279
+msgid "What I seek is more important than anything. You must understand."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:283
+msgid "I do, Milady, I do..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:327
+msgid "Prodos, is that you? We come in peace"
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:331
+msgid "And who may you be, intruder who claims to come in peace?"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:335
+msgid "My name is Aleva, and I am the master of the tower of Ektalion"
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:339
+msgid "Oh, Aleva... the famous apprentice of Ektalion. Why do you claim to be the master of your master's tower?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:343
+msgid "Ektalion is dead, and I am his legacy"
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:347
+msgid "Ektalion dead... How could something like this happened"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:351
+msgid "There was a battle. The undead were walking back to no-life in Karenin, and the marquis blamed it on him."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:353
+msgid "I fough in the side of my master, but there was nothing that could be done"
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:363
+msgid "I am glad that you told me the truth. You could have stay in the side of your father, but you fought for the light and knowledge, which for sure pleases me."
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:369
+msgid "You do not need to lie. You stood in the side of you father, although I know you did not want to fight your master. Now you are his inheritance, and I am glad for it."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:376
+msgid "I had to fight against him, as I had to be in the side of Karenin, for I am Aleva, daughter of the marquis."
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:386
+msgid "You need not to lie. You fough your father, but you did it for the light and the knowledge, and you did good."
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:392
+msgid "I am glad you told me the truth. I know you fought your master, but it was because you had to be on the side of your father. I know that fighting your master was against your will"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:401
+msgid "But... How do you know?"
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:405
+msgid "There is much I know. Also I do know about the love of your master, and now for certain I understand."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:409
+msgid "I am here to learn from you. I want to recover Ektalion. I want to raise him back to life."
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:413
+msgid "What you want is not possible. The will of Ektalion is doomed. His soul was no longer his. With my knowledge, the only thing you could raise is an empty corpse, a Soulless."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:417
+msgid "How is that possible?"
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:421
+msgid "The soul of Ektalion was much valuable, and the goddess Tanas knew that. She keeps his soul chained so he can serve her after death. This was the terrible deal he made, in exchange of power and knowledge. All I can do is get you in contact with her."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:425
+msgid "Will she bring me back his soul?"
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:429
+msgid "No, I don't think so, but if she accepts you as one of her acolytes you could learn much. Even how to untie a soul. But I must warn you, tricking a goddess is hard, and you will nevertheless pay a high price."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:433
+msgid "I am ready to pay any price. Take me to her."
+msgstr ""
+
+#. [message]: speaker=Prodos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:437
+msgid "I will help you. The trip will be long, and harsh. There is still much you need to learn, but I want to see Ektalion back, or at least I want him to untie from such a goddess."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:441
+msgid "Milady, no, it is too dangerous, we should go back."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:445
+msgid "There is no way to go back, my dear. No way."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:465
+msgid "Look Karos, I can sense them, and I think I can control them."
+msgstr ""
+
+#. [message]: speaker=$unit.description
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:469
+msgid "Master..."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:474
+msgid "Your powers are increasing... you will soon be a necromancer yourself if you continue that path."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:478
+msgid "Leave sarcasm for after the battle, my dear."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:494
+msgid "You received 24 gold"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:511
+msgid "You received 18 gold"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:528
+msgid "You received 63 gold"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:554
+msgid "Is a light sphere. I read about them. They permanently illuminate the area around. It can be very useful in this place."
+msgstr ""
+
+#. [option]: speaker=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:556
+msgid "I do not want the sphere to be picked up right now, somebody else should carry that"
+msgstr ""
+
+#. [option]: speaker=Aleva
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:559
+msgid "I think the object should be picked up now."
+msgstr ""
+
+#. [object]: id=lightsphere
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:563
+msgid "Light Sphere"
+msgstr ""
+
+#. [object]: id=lightsphere
+#: ./Love_To_Death/scenarios/07_TheTan.cfg:566
+msgid "This light sphere illuminates the area around it for an undetermined amount of time"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:4
+msgid "MPLTD The Path"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:8
+msgid " The Path"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:25
+msgid "There was much I could learn with Prodos. He guided us up north, to the land of the druids that follow the cult of the powerful goddess Tanas. He explained me much; about the nature of the gods, about the art of magic... There was much I learned with him, and every new step in the path of wisdom would mean another step away from Karos."
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:78
+msgid "Reach the signpost"
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:194
+msgid "This, Aleva, is the Great River. As you can see, carries little water now. We can use this moment to cross, and keep on going North."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:198
+msgid "Milady, we are out of Wesnoth here, and this is a dangerous land. Our scouts inform us that a a raid of orcs is approaching from the South. They are big in number."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:202
+msgid "Orcs are fast, and they know the territory, we will hardly outrun them."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:206
+msgid "Maybe we will not need it. The Great River can be a reliable barrier."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:213
+msgid "Controlling the forces of nature is an important step. If we manage to grow the waters of the river the orcs will probably have a very hard time following us."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:217
+msgid "How are you going to do that?"
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:221
+msgid "We need to have a good view of the river. There is a mountain by the river bank that we could climb. Let's go. It will not be me to do this magic. It will be you."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:225
+msgid "Me? I am not that powerful. I can not."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:229
+msgid "Do not worry, my apprentice. Follow my guide. But be careful. I do not think any man can stand the strenght of the river, so be careful. Friends and foes will fall under the power of the water."
+msgstr ""
+
+#. [message]: id=narrator
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:247
+msgid "Too much magic to be repeated"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:253
+msgid "Here we are. I can see all the river from here."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:257
+msgid "So you want to try our magic now?"
+msgstr ""
+
+#. [option]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:259
+msgid "No, Prodos, is not the moment yet, many of our man are not yet in this side of the river"
+msgstr ""
+
+#. [option]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:262
+msgid "Yes, Prodos, I want to feel the magic, I want to do it"
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:266
+msgid "Now Aleva, you have to feel the river. Feel the water. Feel the power..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:270
+msgid "I do not know if I can hold it."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:274
+msgid "Go ahead, keep going..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:278
+msgid "I can do it, I can do it."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:309
+msgid "I did it, I did it! Did you see that, Karos, I did it!"
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:313
+msgid "Yes my dear, you did, and now, the final surprise... Raise!!"
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:321
+msgid "Your magic is impressive, but you should let the dead rest."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/08_ThePath.cfg:349
+msgid "The path seems to be clear. Let's go, before more of them come."
+msgstr ""
+
+#: ./Love_To_Death/scenarios/09_Druids.cfg:4
+msgid "MPLTD Druids"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/09_Druids.cfg:8
+msgid " Druids"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/09_Druids.cfg:44
+msgid "Many things I learned from my new Master. I learned about the Druids of the North. Good men, that fell passionate about knowledge. They lived as outcasted because of the ignorance of the peoples of Wesnoth. Always hiding, they formed a secret congregation. Prodos itself had to hide among his druid friends many times, as the people of Wesnoth chased him for his arts. For so long I was blind about the ignominious power of the ignorance of men."
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/09_Druids.cfg:93
+msgid "Defeat Enemy Leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:93 ./Love_To_Death/scenarios/09_Druids.cfg:105
+msgid "Death of Prodos"
+msgstr ""
+
+#. [side]: id=Botani, type=Red Mage
+#: ./Love_To_Death/scenarios/09_Druids.cfg:139
+msgid "Botani"
+msgstr ""
+
+#. [side]: type=Grand Knight
+#: ./Love_To_Death/scenarios/09_Druids.cfg:157
+msgid "Ekdikoumai"
+msgstr ""
+
+#. [side]: type=Grand Knight
+#: ./Love_To_Death/scenarios/09_Druids.cfg:169
+msgid "Dynatos"
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:234
+msgid "Hail, my friend Botani, are those war drums I hear?"
+msgstr ""
+
+#. [message]: id=Botani
+#: ./Love_To_Death/scenarios/09_Druids.cfg:238
+msgid "So I fear. The men of Wesnoth found our secret haven, and they attack us, once again."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:242
+msgid "Powerful allies I bring. On my side rides Aleva, Master of the Tower of Ektalion, who wants to meet Tanas herself, and learn from her."
+msgstr ""
+
+#. [message]: id=Botani
+#: ./Love_To_Death/scenarios/09_Druids.cfg:246
+msgid "Any help is for sure welcome, and we will grant her audience... if we shall survive."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:250
+msgid "I don't like this, Milady, we should not fight the men of Wesnoth."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:260
+msgid "Outcasted we are since we fought against my father in the Tower of Ektalion. We shall continue the path of knowledge, as we have no more friends among normal men."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:266
+msgid "No, Karos. When I fought against my master I was still a young apprentice, with too many ties to the world of man. Now I'm no longer Aleva, heir of Karenin, but Aleva, Master of the Tower of Ektalion. Knowledge is my path."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:272
+msgid "We shall fight for the triumph of wisdom."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:294
+msgid "Aleva, I can not fight at your orders anymore."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:298
+msgid "What?, you betray me, Karos?"
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:302
+msgid "No, I sweared to protect, and so I will do, but I will not cooperate in this attack. I will follow you, and will protect you personally, but don't order me to do further"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:306
+msgid "As you wish, Karos, as you wish... We will see what happens when the battle ends..."
+msgstr ""
+
+#. [message]: speaker=Karos
+#: ./Love_To_Death/utils/deaths.cfg:9 ./Love_To_Death/scenarios/09_Druids.cfg:358
+msgid "Nooo!!!, by loved one, you can not die, not like this"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/utils/deaths.cfg:36 ./Love_To_Death/scenarios/09_Druids.cfg:371
+msgid "Oh, no, Prodos! Now I will never make it."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:384
+msgid "I can continue no further, MiLady"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:388
+msgid "You have not served me well, Karos, but still I will take care of your wounds, hold on until the end of the battle."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:403
+msgid "Many have died here today, and we can use them to help us in our battle. Aleva, rise allies for us"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:407
+msgid "I don't know if I can rise that many..."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:411
+msgid "Don't do it, let the bodies of our enemies rest in peace"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:415
+msgid "No Karos, they fight us with the steel, and we will fight them back with knowledge. Rise, my Minions, Rise!!"
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/09_Druids.cfg:430
+msgid "Please Aleva, stop this at once!!"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/09_Druids.cfg:434
+msgid "Karos, you are not part of my people anymore, don't you expect me to listen to you."
+msgstr ""
+
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:4
+msgid "MPLTD Test of Loyalty"
+msgstr ""
+
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:8
+msgid " Test of Loyalty"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:32
+msgid "Karos insisted in staying with me. I don't know if I can trust him anymore, but I can't just kick him away from my side. Thanks to prodos and his contacts among the druids, I was granted an audience with Tanas. I was so excited. We had to march up the mountains, until reaching the cave-fortress where she lives. I was going to meet the so powerful being that would bring the powers to rise my beloved master Ektalion back again."
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:81 ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:59
+msgid "Meet Tanas"
+msgstr ""
+
+#. [side]: id=Tanas, type=Tanas
+#. [side]
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:122 ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:92
+msgid "Tanas"
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:166
+msgid "So, we approach now, Aleva. You must be careful. Tanas is powerful, and knowledgable. She will test you, and if she knows you only want to steal Ektalion's soul from her she will destroy right in place."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:170
+msgid "I will become her best minion, Prodos. I have grown wise, and without rush. I will learn all I can from her, and when the moment arrives, I will be ready to recover Ektalion from her."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:174
+msgid "So I guess this is it, Aleva? Will I be able to stay by your side to protect you?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:178
+msgid "I don't think I will need your protection anymore, Karos. Mine is a path of knowledge. You mission will be to travel back to Karenin and tell everyone that I'm dead."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:182
+msgid "We should delay no longer."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:186
+msgid "I know. I must thank you, Prodos. I think you should go now to the tower of Ektalion, and keep it until I should come back, with Ektalion's soul, and then we will combine powers to rise him back together. Let us go now, to meet the so called goddess."
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:197
+msgid "You must be Aleva, daghter of Kaliostali, heir of Karenin, and master of the Tower of Ektalion. The powerful Aleva..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:201
+msgid "I am. And I came here to be your apprentice"
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:205
+msgid "You are brave, Aleva. I am known as goddess of Evil among the man of Wesnoth. What is it you want?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:209
+msgid "I want knowledge. And power"
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:213
+msgid "What do you want the power of controlling life and death for?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:217
+msgid "What for? What can someone need that power for?"
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:219
+msgid "I want power to control my own life and death."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:224
+msgid "I want power to protect my own people from fear and threats."
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:231
+msgid "I accept your reasons. You are a powerful entity, Aleva from Karenin. But you will still need to prove yourself if you want to become my minion."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:235
+msgid "I am ready to confront any test."
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:239
+msgid "Good. First test is right now. Is the Test of Loyalty. I need to be sure that you are ready to pay a high price to be my apprentice."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:243
+msgid "And what shall it be that price?"
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:247
+msgid "A Soul. A soul you appreciate. Give me one of your friends. Sacrifice one of them. Any of those two you brought with you. I know you are tied to both of them, so choose."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:251
+msgid "I can not kill one of my friends. You can't ask that from me"
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:255
+msgid "In that case, you can not become my apprentice, and so you will remain ignorant about the secrets of life and death."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:259
+msgid "If I shall sacrifice any of them two... Will I get their soul back when my training is over? Will I be able to fully rise them again?"
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:263
+msgid "Only if you achieve enough mastery in the skill I can teach you. So, who do you choose?"
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:268
+msgid "I choose Karos."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:274
+msgid "I choose Prodos."
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:288 ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:308
+msgid "Then so it be."
+msgstr ""
+
+#. [message]: id=Karos
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:292
+msgid "No, Aleva, noooo, you can't do this to me! I love you!"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:296
+msgid "I'm sorry Karos. I will rise you back, Your soul will be mine"
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:312
+msgid "No, Tanas, we had a deal, you can't do this!!"
+msgstr ""
+
+#. [message]: id=Tanas
+#: ./Love_To_Death/scenarios/10_Test_of_Loyalty.cfg:316
+msgid "Silence, minion. You risked your life, and this is the price you pay."
+msgstr ""
+
+#. [scenario]: id=Test_of_Power
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:3
+msgid "Test of Power"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:21
+msgid "I thought the first test was the hardest of all. But how wrong was I... I could not know at the moment what was the price I would pay. But I was blinde by the ambition of power, and obsessed with the idea of recovering my Master."
+msgstr ""
+
+#. [side]: id=Akolitos, type=Drake Flameheart
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:44
+msgid "Akolitos"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:95
+msgid "Defeat Enemy Leader"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:115
+msgid "So, Aleva, I have seen how you can be loyal to me, and sacrifice much if I tell you so, but I need more from you.I must know I can give you responsibilites. I need to know you can command my minions if necessary"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:119
+msgid "I am ready for the next test"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:124
+msgid "You will fight my armies, commanded by my loyal general, Akolitos. Defeat him, or die."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:128
+msgid "How will I be able to defeat your armies, if I don't have my armies with me."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:133
+msgid "I will give you my armies. You can summon my Drake demons. And now, fight, prove your Power."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:149
+msgid "You don't desserve my knowledge, Aleva, so this is how it ends for you"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:161
+msgid "I can not wait for ever to see if you can be a worthy general."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/11_Test_of_Power.cfg:176
+msgid "You are for sure a worthy commander. You may continue to the next test."
+msgstr ""
+
+#. [scenario]: id=Test_of_Faith
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:3
+msgid " Test of Faith"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:20
+msgid "I defeated the armies of Tanas, I sacrified a friend... But I still had not idea how far can the evil reach, how much of a sacrifice would I need."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:114
+msgid "You are very close, Aleva. This is the last test. The test of Faith"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:118
+msgid "Haven't I proved enough faith?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:123
+msgid "Sometimes, Aleva, I will need you to do things that you will not uderstand. I need to know that you have unbreakable faith in me."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:127
+msgid "And how will I prove my faith?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:132
+msgid "Come to me and you will find out."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:146
+msgid "Now, Aleva, listen to me, you must trust me."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:150
+msgid "What do you want from me, Tanas?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:155
+msgid "Aleva, if you want to know the secrets of life and death, you must first die."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:159
+msgid "What? What do you mean?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:164
+msgid "I mean that. You must die, and I will rise you again, a new Aleva, that has passed through the gates of death. Do you have faith in me, Aleva? Enough faith?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:168
+msgid ""
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:170
+msgid "Yes, I do have faith in you, kill me, and rise me again."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:175
+msgid "No, Tanas, I will not leave my live in your hands."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:183
+msgid "You must die now, Aleva. You can fight, if you want."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:205
+msgid "So, Prodos, I must thank you now for your service. You brought me a powerful soul, and helped me avoid a true menace. This Aleva... was a dangerous one."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:209
+msgid "I know, Tanas, her powers were increasing. Now, Tanas..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:214
+msgid "Yes, you have served me well. You may go now to take over the Tower of Ektalion. Is yours, and all the powers inside."
+msgstr ""
+
+#. [message]: id=Prodos
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:218
+msgid "Thank you, MiLady"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:225
+msgid "This is it, the menace of Aleva is solved. Thanks to Prodos I could prevent such a disgrace"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:230
+msgid "But you still killed Prodos, My dark Lady."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: ./Love_To_Death/scenarios/12_Test_of_Faith.cfg:235
+msgid "It was a treacherous one, that Prodos. It serves me well under my direct command. I will train him, will rise him as a powerful Lich, and send them to take over the Tower of Ektalion. It will become a powerful minion."
+msgstr ""
+
+#. [scenario]: id=Awakening
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:3
+msgid " Awakening"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:20
+msgid "I don't know how and where the minions of Tanas throwed me like a garbage (as I was dead), but only a few hours after Prodos betrayed me, a lich raised me from the death as part of his undead minions to invade and destroy a little town of not more then 900 inhabitants."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:23
+msgid "A few month(I think it took 6 or 7 month) after the lich as turned the little town in an undead town, for a reason I do not know, I became abble to think by myself again."
+msgstr ""
+
+#. [side]: id=Urorfildor, type=Ancient Lich
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:68
+msgid "Urorfildor"
+msgstr ""
+
+#. [message]: id=Urorfildor
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:96
+msgid "Igor, leader of my army, I demand to you to head north to a nearby town and to kill anything that is breathing."
+msgstr ""
+
+#. [message]: id=Igor
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:100
+msgid "No!"
+msgstr ""
+
+#. [message]: id=Urorfildor
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:104
+msgid "What, you do not have free will, you can't say no."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:108
+msgid "He can't, but I can and there is no way I help you to destroy any town and kill the poor peasant living there."
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:113
+msgid "Kill your master to gain your freedom"
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:117
+msgid "Aleva die for a second time"
+msgstr ""
+
+#. [objective]: condition=lose
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:143 ./Love_To_Death/scenarios/13_Awakening.cfg:121
+msgid "Death of Igor"
+msgstr ""
+
+#. [message]: id=Igor
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:133
+msgid "Mistress, what are we going to do now?"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:137
+msgid "I don't know where I have to go, but we have to flee and to hide from the signt of the living, as I am not welcomed anywhere anymore."
+msgstr ""
+
+#. [message]: id=Igor
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:141
+msgid "From the few think I remember of the time I had a working heart, I went to the peak of the Heart mountains, called the Heart Fangs. It would be a really good place to hide ourself as the only inhabitant of these nearly unhabitable mountains are a few hermits."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:145
+msgid "If I am right, there is two way to reach the Heart Fangs from here."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:147
+msgid "We will travel by the plain to the Fangs."
+msgstr ""
+
+#. [option]: id=Aleva
+#: ./Love_To_Death/scenarios/13_Awakening.cfg:156
+msgid "We will travel in the mountains."
+msgstr ""
+
+#. [scenario]: id=The_entrance
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:3
+msgid " The entrance"
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:19
+msgid "Igor told me it was possible to pass in an underground maze uner the mountains as a shortcut. So, our little army of undead headed there, but the entrance to the tunnel was not that easy to reach."
+msgstr ""
+
+#. [side]: id=Addraercyn, type=Peasant
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:65
+msgid "Addraercyn"
+msgstr ""
+
+#. [side]: id=Bart, type=Orcish Sovereign
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:78
+msgid "Bart"
+msgstr ""
+
+#. [message]: id=Igor
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:119
+msgid "Mistress, look straight north, there is an orchish castle."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:123
+msgid "Igor, stop speaking and start running please. We have to get in the entrance as soon as possible."
+msgstr ""
+
+#. [message]: id=Igor
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:127
+msgid "Yes, mistress."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:131
+msgid "(And these two ruins of human fortification look strange)"
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:135
+msgid "Aleva get into the caverns"
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:157
+msgid "We reached the cave. Quick, we have to continue before the orcs get here."
+msgstr ""
+
+#. [message]: id=warrior
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:182
+msgid "I was here since... I can't remember."
+msgstr ""
+
+#. [message]: id=marrior
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:204
+msgid "Wake up. We are under attack."
+msgstr ""
+
+#. [message]: id=Addraercyn
+#: ./Love_To_Death/scenarios/14b_The_entrance.cfg:218
+msgid "Look like the orcs were not egnouth, the deaths are rising against us."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/utils/death_arch_3.cfg:9
+msgid "No, I can't die... again."
+msgstr ""
+
+#. [message]: id=Igor
+#: ./Love_To_Death/utils/death_arch_3.cfg:13
+msgid "Mistress..."
+msgstr ""
+
+#. [message]: id=Igor
+#: ./Love_To_Death/utils/death_arch_3.cfg:26
+msgid "Mistress... Help..."
+msgstr ""
+
+#. [message]: id=Aleva
+#: ./Love_To_Death/utils/death_arch_3.cfg:30
+msgid "Igor, nooooo!"
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/utils/deaths.cfg:23
+msgid "My dear servant, I can not go on without you. Rest in Peace."
+msgstr ""
+
+#. [message]: speaker=Aleva
+#: ./Love_To_Death/utils/deaths.cfg:52
+msgid "Nooo!!, Father, you cannot die!!!"
+msgstr ""
+
+#. [message]: speaker=Odigo
+#: ./Love_To_Death/utils/deaths.cfg:65
+msgid "Hugh..."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/utils/intro.cfg:5
+msgid "It is an experimental port of the campaign to multiplayer. Do not expect it to alway work as intended, expecially in network play. Please, report any bug you find."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/utils/intro.cfg:9
+msgid "This campaign is not oriented for kids. If you expect sex or gratuite violence, forget about it, you won't find it here, but I consider it of mature content because of the values and behaviors of main characters. Now, Let's begin at last."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/utils/intro.cfg:12
+msgid "For I am Aleva. It has been long, very long, but I still remember the old times of flesh and blood. It has been so long..."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/utils/intro.cfg:16
+msgid "I remember the times of Karenin, the old marque, in the very borders of Wesnoth. I was young and ignorant. Daughter of the noble Marquis of Karenin, Kaliostali, loyal servant of king Konrad II. As I was not born male, I could choose the first steps of my destiny. Only the first ones. I felt attracted to the paths of magic."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/utils/intro.cfg:21
+msgid "Not far in the north, in the steep valleys by the mountains where the Dasoi used to live, a known mage lived. His name was Ektalion. My master, my father of faith, my friend, my everything... I departed to travel paths of magic with him."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/utils/intro.cfg:26
+msgid "My loyal servant, Karos, was my closest ally. He was always by my side. My first servant, and the only who would give his live for me, for something more than just loyalty. Gold can not buy lives, and loyalty is a bastard daughter of gold. Powerful knight, sir Gold."
+msgstr ""
+
+#. [part]
+#: ./Love_To_Death/utils/intro.cfg:31
+msgid "Innocent I was, as a say, at that time. So easy the world was... I remember that year, when it all began. Leaves were red when my loyal Karos and me were travelling through the marque, from the house of Ektalion back to Karenin. That summer was intense, in mind and heart. There was much that I learned from my master, but in the winter I still had to go back to my family. Everything began when I was back to Karenin."
 msgstr ""
 
